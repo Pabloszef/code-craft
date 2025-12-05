@@ -19,7 +19,7 @@ const geistMono = localFont({
 
 export const metadata: Metadata = {
     title: "CodeCraft",
-    description: "CodeCraft - Interactive Code Editor",
+    description: "Share and run code snippets",
 };
 
 export default function RootLayout({
